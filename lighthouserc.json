@@ -1,7 +1,7 @@
 {
   "ci": {
     "collect": {
-      "url": ["https://ucpbx1qa.ecosmob.net/"],
+      "url": ["https://www.amazon.com"],
       "numberOfRuns": 3
     },
     "assert": {
